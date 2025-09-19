@@ -5,7 +5,7 @@ This repository will contain resources related to the paper: _"Text2Playlist: Ge
 This work has been accepted as a poster for the EARL Workshop (_Evaluating and Applying Recommender Systems with Large Language Models_) at the 19th ACM Conference on Recommender Systems  ([RecSys 2025](https://recsys.acm.org/recsys25/)) in Prague.
 
 <p align="center">
-  <img height="150" src="figures/recsys25.png">
+  <img height="90" src="figures/recsys25.png">
 </p>
 
 ## Summary 
@@ -14,8 +14,9 @@ The streaming service Deezer heavily relies on the search to help users navigate
 
 We present Text2Playlist, a stand-alone tool that addresses these limitations. Text2Playlist leverages generative AI, music information retrieval and recommendation systems to generate query-specific and personalized playlists, successfully deployed at scale.
 
+
 <p align="center">
-  <img height="250" src="figures/text2playlist.pdf">
+  <img height="100" src="figures/text2playlist.png">
 </p>
 
 
@@ -29,4 +30,4 @@ We present Text2Playlist, a stand-alone tool that addresses these limitations. T
 }
 ```
 
-The paper is publicly available [here](). The poster we presented at RecSys 2025 can be found [here]().
+The paper is publicly available [here](references/text2playlist_delcluze_2025.pdf). The poster we presented at RecSys 2025 can be found [here](references/poster_text2playlist_delcluze_2025.pdf).

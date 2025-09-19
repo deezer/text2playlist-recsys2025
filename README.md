@@ -16,7 +16,7 @@ We present Text2Playlist, a stand-alone tool that addresses these limitations. T
 
 
 <p align="center">
-  <img height="100" src="figures/text2playlist.png">
+  <img height="400" src="figures/text2playlist.png">
 </p>
 
 
